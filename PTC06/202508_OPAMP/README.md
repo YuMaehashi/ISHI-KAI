@@ -10,6 +10,10 @@ ISHI会に入って初のイベント。主な対象は初学者のようだっ�
 
 大変貴重な経験をさせていただき、ありがとうございました。
 
+## 成果物
+定電流源回路 回路設計＆レイアウト設計
+[このリポジトリ内に含まれる定電流源回路です](https://github.com/ugeugeHigh/opamp_ishi)
+
 ## 特性
 ![DCOP Vdd&Temp Variation](images/vthrefDCOP.jpg)
 
