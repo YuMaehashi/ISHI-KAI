@@ -1,0 +1,1 @@
+OpenSUSI-TR1umプロセスでの活動用
